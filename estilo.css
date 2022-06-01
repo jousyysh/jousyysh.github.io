@@ -1,0 +1,51 @@
+
+h1{
+    background-color: lightcoral;
+    text-align: center;
+    font-size: 300%;
+}
+
+h2{
+    background-color: aquamarine;
+    text-align: left;
+    font-size: 130%;
+}
+
+p{
+    text-align: center;
+    font-size: 125%;
+}
+
+img{
+    width: 45%;
+    height:300px;
+}
+
+h3{
+    background-color: blueviolet;
+    text-align: left;
+    font-size: 130%;
+}
+
+p{
+    text-align: left;
+    font-size: 125%;
+}
+
+h4{
+    background-color: darkgray;
+    font-size: 130%;
+}
+
+p{
+    text-align: left;
+    font-size: 125%;
+}
+
+img{
+    height: 300px; ;
+}
+
+body{
+      background-color: aliceblue;
+}
